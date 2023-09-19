@@ -1,0 +1,1 @@
+alter table vollmed_api.medicos add numero varchar(10);
