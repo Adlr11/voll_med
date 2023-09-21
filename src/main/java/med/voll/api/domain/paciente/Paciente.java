@@ -23,6 +23,7 @@ public class Paciente {
     private String email;
     private String dni;
     private String telefono;
+    private Boolean activo;
 
     @Embedded
     private Direccion direccion;
