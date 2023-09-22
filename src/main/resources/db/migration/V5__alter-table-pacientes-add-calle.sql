@@ -1,1 +1,0 @@
-alter table vollmed_api.pacientes add calle varchar(200);
